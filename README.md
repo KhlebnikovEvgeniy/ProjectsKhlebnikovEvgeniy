@@ -1,2 +1,2 @@
-# PetProjectsKhlebnikovEvgeniy
-Pet Projects of Khlebnikov Evgeniy
+# ProjectsKhlebnikovEvgeniy
+Projects of Khlebnikov Evgeniy
